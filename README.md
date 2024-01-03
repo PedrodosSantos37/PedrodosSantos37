@@ -5,4 +5,4 @@
 
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrodosSantos37&show_icons=true&theme=tokyonight)
-<img height="100px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight)">
+<img height="78px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight)">
