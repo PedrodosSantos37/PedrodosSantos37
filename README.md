@@ -5,5 +5,5 @@
 
 <div>
   <img width="42%" height="160px" src="https://github-readme-stats.vercel.app/api?username=PedrodosSantos37&show_icons=true&theme=tokyonight">
-  <img width="48%" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight">
+  <img width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight">
 </div>
