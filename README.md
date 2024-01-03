@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning python to improve myself.
 
 <div>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=PedrodosSantos37&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight">
+  <img width="42%" height="50px" src="https://github-readme-stats.vercel.app/api?username=PedrodosSantos37&show_icons=true&theme=tokyonight">
+  <img width="48%" height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodosSantos37&layout=compact&theme=tokyonight">
 </div>
