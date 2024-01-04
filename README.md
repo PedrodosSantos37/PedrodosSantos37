@@ -1,4 +1,4 @@
-## Olá!! 👋 Me chamo Pedro, estou me especializando em engenharia de sofware. 
+## Olá!! 👋 Me chamo Pedro, estou me especializando em engenharia de software. 
 - 🔭 I’m currently excited to help others.
 - 🌱 I’m currently learning python to improve myself.
 
